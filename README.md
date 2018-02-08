@@ -1,3 +1,3 @@
 # Notebooks
 
-Attempt to link file [here](subdir/Jupyter-Test-Document.ipynb)
+Attempt to link file [here](blob/master/subdir/Jupyter-Test-Document.ipynb)
