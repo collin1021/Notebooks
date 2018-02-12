@@ -1,4 +1,4 @@
-The best way to navigate the jupyter notebooks is by familiarizing yourself with Jupyter and installing the software. Then, by downloading these files, you can interactively edit the figures and pages.
+The best way to navigate the jupyter notebooks is by familiarizing yourself with Jupyter and installing the software. Then, by downloading these files, you can interactively edit the figures and pages. [Link Here](http://jupyter.readthedocs.io/en/latest/install.html)
 
 The other way to navigate is by opening [TableOfContents.md](TableOfContents.md) and then using the hyperlinks. However, this method will not allow editing of the files.
 
