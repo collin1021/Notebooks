@@ -1,7 +1,5 @@
 The best way to navigate the jupyter notebooks is by familiarizing yourself with Jupyter and installing the software. Then, by downloading these files, you can interactively edit the figures and pages. [Link Here](http://jupyter.readthedocs.io/en/latest/install.html)
 
-The other way to navigate is by opening [TableOfContents.md](TableOfContents.md) and then using the hyperlinks. However, this method will not allow editing of the files.
-
-One can also navigate the directories on their own without the hyperlinks. ***Be warned that opening hyperlinks will redirect you to the nbviewer module of the jupyter website.*** GitHub has a nifty little feature that allows for real-time rendering of the .ipynb files so that they can be viewed ***(not edited)*** in GitHub.
+Each file (hopefully) will explore how different questions posed about Jupyter Notebooks can (or can't) be solved and the implications, if any, of the found solution. Most files will be covering custom formatting and making notebookds **_pretty_**!
 
 The best way to learn how to navigate is to try!
